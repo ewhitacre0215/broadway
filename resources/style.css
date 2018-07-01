@@ -1,0 +1,48 @@
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+ul {
+  list-style: none;
+  font-size: 18px;
+}
+
+a {
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.copywrite {
+  font-size: 11px;
+}
+
+#top, .backimage {
+  background-image: url("./images/background_image.png");
+  color: white;
+}
